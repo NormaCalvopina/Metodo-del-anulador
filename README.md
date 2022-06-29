@@ -53,3 +53,14 @@ Ejemplos:
 
 ![image](https://user-images.githubusercontent.com/105259381/176545637-61b1e9a8-fabb-4bcd-af39-eb04fbd544aa.png)
 
+
+![image](https://user-images.githubusercontent.com/105259381/176546402-04fd2388-dff3-4780-be38-3e964f2ac048.png)
+
+Solución: De acuerdo con (3) sabemos que  ![image](https://user-images.githubusercontent.com/105259381/176546475-762ce64f-5d3c-4093-a1bd-3735947e46e6.png)
+
+como consecuencia de (4)
+![image](https://user-images.githubusercontent.com/105259381/176546530-913e9b23-ac33-4177-a415-efb03ab77a55.png)
+
+
+
+
