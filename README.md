@@ -61,6 +61,12 @@ Solución: De acuerdo con (3) sabemos que  ![image](https://user-images.githubus
 como consecuencia de (4)
 ![image](https://user-images.githubusercontent.com/105259381/176546530-913e9b23-ac33-4177-a415-efb03ab77a55.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176546966-2fd19a25-7f12-4ea3-8a54-f2d66fd683c4.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176546997-7c8aff74-b232-444d-ade0-2d236d3bd114.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176547042-9425aa1a-8979-4a7f-8662-8130575a30c0.png)
+
 
 
 
