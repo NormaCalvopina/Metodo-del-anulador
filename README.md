@@ -67,6 +67,46 @@ como consecuencia de (4)
 
 ![image](https://user-images.githubusercontent.com/105259381/176547042-9425aa1a-8979-4a7f-8662-8130575a30c0.png)
 
+![image](https://user-images.githubusercontent.com/105259381/176558620-90dda09e-dd3c-4d21-b118-80180d4d6c8f.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558632-dd033588-3128-49be-a5ad-e076ab6ed2a5.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558647-1235b983-6620-4ec4-8510-201e87739748.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558669-68338fac-152c-4427-898d-8b0da05e92ff.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558693-7017b976-a793-4cf1-8c40-4b5bd4d3947a.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558710-a806d596-fe6d-4bb6-9103-67f585ea3fd6.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558724-caa960ff-c1b3-4165-b923-80c951b89be7.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558735-15db5958-53d0-4d4b-a3ca-944b739961d6.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176558758-a612af2b-6a34-4db2-807f-31d940c45135.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558771-f34c9080-a4b9-49cd-9051-783e5fa541c5.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176558798-1a75b509-4fae-4c85-93c5-8b766e7b6e03.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558813-f0c391e7-3217-4123-9f1a-c6a90ecb228c.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176558836-28b298de-751d-45d5-af9d-c80a228ea86a.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558854-8d091602-5b91-4c24-b9eb-6826ea59deeb.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558873-a8a63409-eff7-4435-9325-45e5c7ff0b92.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558891-6f8833dc-415d-4655-b08b-974007ac013b.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558910-4b2d23cf-4da9-4274-afcf-3b6e71b557f5.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558919-b7f99a4f-b6f3-46cf-87b9-de137d1cd425.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176558929-4dfd643e-6c22-47c9-88c3-c8afc06d634a.png)
 
 
 
