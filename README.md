@@ -47,3 +47,9 @@ Para comprobarlo, observemos que la ecuación auxiliar de la ecuación homogéne
 Ejemplos:
 
 ![image](https://user-images.githubusercontent.com/105259381/176545219-3e727a20-5741-4bf3-959a-deb35dc87603.png)
+
+![image](https://user-images.githubusercontent.com/105259381/176545558-f101f370-35b2-4f41-a7b5-5cf5df758f9b.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/176545637-61b1e9a8-fabb-4bcd-af39-eb04fbd544aa.png)
+
