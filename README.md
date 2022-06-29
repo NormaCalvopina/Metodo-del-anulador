@@ -42,3 +42,8 @@ Para comprobarlo, observemos que la ecuación auxiliar de la ecuación homogéne
 . Puesto que ∝ es una raíz de multiplicidad n, la solución  general es:
 
 ![image](https://user-images.githubusercontent.com/105259381/176542600-42f9a9f8-200b-4d79-99cd-501b79e6e135.png)
+
+
+Ejemplos:
+
+![image](https://user-images.githubusercontent.com/105259381/176545219-3e727a20-5741-4bf3-959a-deb35dc87603.png)
